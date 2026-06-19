@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 
+# =========================
+# CONFIG - BEIJING TIMES ONLY
+# =========================
+SKIP_TIMING = False          # False=next midnight, True=manual
+MANUAL_FIRE_HOUR = 19        # Beijing hour
+MANUAL_FIRE_MIN = 37         # Beijing minute  
+MANUAL_FIRE_SEC = 0          # Beijing second
+OFFSET_MS = 120              # First shot Xms BEFORE midnight
+BURST_INTERVAL_MS = 50       # 50ms between shots
+
 import subprocess, sys, os, time, json, hashlib, random, signal
 from datetime import datetime, timezone, timedelta
 import ntplib, pytz, urllib3
