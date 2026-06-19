@@ -1,16 +1,12 @@
 #!/data/data/com.termux/files/usr/bin/bash
-
-cd ~/storage/shared/script/unlock-tool || { echo "Directory not found"; exit 1; }
+cd "$(dirname "$0")" || { echo "Cannot find script location"; exit 1; }
 
 tmux new-session -d -s mibox
-
-# Create layout: 4 panes
 tmux split-window -h
 tmux split-window -v
 tmux select-pane -t 0
 tmux split-window -v
 
-# Run script in each pane
 tmux send-keys -t 0 "python script.py" C-m
 tmux send-keys -t 1 "python script.py" C-m
 tmux send-keys -t 2 "python script.py" C-m
