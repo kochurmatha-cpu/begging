@@ -1,7 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash
-cd "$(dirname "$0")" || { echo "Cannot find script location"; exit 1; }
+
+# Go to the folder where start_4.sh is located
+cd "$(dirname "$0")" || { echo "Cannot find script folder"; exit 1; }
 
 tmux new-session -d -s mibox
+
 tmux split-window -h
 tmux split-window -v
 tmux select-pane -t 0
@@ -13,3 +16,4 @@ tmux send-keys -t 2 "python script.py" C-m
 tmux send-keys -t 3 "python script.py" C-m
 
 tmux attach-session -t mibox
+
