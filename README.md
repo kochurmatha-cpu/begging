@@ -1,7 +1,7 @@
 <h1>
   begging - perfected
-  <span><small>(i hope)</small></span>
-  <span><sub>for lazy ppls.</sub></span>
+  <span><sub>(i hope)</sub></span>
+  <span><small>for lazy ppls.</small></span>
 </h1>
 
 #### if you think you have a brain, scroll to the end.
@@ -34,7 +34,6 @@ how you ask? download firefox from play store. then -
 <h1 align="center"> now, for the final push: </h1>
 
 ### 1. open termux. 
-
 <br>
 give termux file permission with 
 
