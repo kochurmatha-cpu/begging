@@ -6,7 +6,9 @@
 ## no nano edits. no accidental 4^n threads running. 
 
 >can't read? [watch this](https://youtu.be/QuFioBUkh5U)
-
+<p align="center">
+<img width="1159" height="768" alt="weak internet lel" src="https://github.com/user-attachments/assets/fb5ba961-b5ff-46e7-8d59-9c979a535aff" />
+</p>
 
 ## Just one command and it will ask for your cookie 🍪 
 
@@ -25,8 +27,8 @@ how you ask? download firefox from play store. then -
 	now, you should have another hijibiji cookie (token 2). save it too.
 
 
-## now, for the final push:
-
+<p align="center"> ## now, for the final push: </p>
+<br>
 ### 1. open termux.
 give termux file permission with 
 ```bash
@@ -49,15 +51,14 @@ cd ~/begging && bash start_4.sh
 
 >idk if it will work or not tho. dont cry. and you need to get the cookies again if you are trying the next day.
 
-
-
-
-
-
+<br> 
+<br>
+Dedicated to all the vibecoders <img src= "https://tenor.com/ccDTlkaFTwx.gif"> out there (out of the asylum). 
+<br>
+<details> 
+	<summary> Click to see the recipe </summary>
 workflow 🤓 {lmao}: [OP_grok](https://grok.com/share/c2hhcmQtMg_071ae264-cefb-405f-964e-8267e45f4fe5) to [shitty-prim-gpt](https://chatgpt.com/share/6a364ecc-5704-83e8-a9b1-9188f6f58ac3) to [idjit-deepkiss](https://chat.deepseek.com/share/2xwxmhn73fijf9nutf)
-
-
-
+</details>
+<br>
 all of this are grabbed [from](https://github.com/flowTech-x/unlock-tool)
-
-read and work and profit. thanks to them. 
+<br> read and work and profit. thanks to them. 
