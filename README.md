@@ -34,7 +34,7 @@ how you ask? download firefox from play store. then -
 <h1 align="center"> now, for the final push: </h1>
 
 ### 1. open termux. 
-<br> give termux file permission with 
+give termux file permission with 
 
 ```bash
 termux-setup-storage
