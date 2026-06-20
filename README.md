@@ -7,7 +7,10 @@
 
 >can't read? [watch this](https://youtu.be/QuFioBUkh5U)
 
-just one command and it will ask for your cookie 🍪 ## just paste the two cookies that you will be grabbing.
+
+Just one command and it will ask for your cookie 🍪 
+
+## just paste the two cookies that you will be grabbing.
 how you ask? download firefox from play store. then - 
 
 **step 1.** add cookie editor in firefox - https://addons.mozilla.org/firefox/addon/cookie-editor/
@@ -21,7 +24,7 @@ how you ask? download firefox from play store. then -
 **step 5.** download "multi app: dual space" from play store, add firefox. do step 1 to step 4 again. 
 	now, you should have another hijibiji cookie (token 2). save it too.
 
-##now, for the final push:
+## now, for the final push:
 
 ### 1. open termux.
 give termux file permission with 
@@ -43,6 +46,7 @@ ______________________________
 cd ~/begging && bash start_4.sh
 ``` 
 >idk if it will work or not tho. dont cry. and you need to get the cookies again if you are trying the next day.
+
 
 
 workflow 🤓 {lmao}: [OP_grok](https://grok.com/share/c2hhcmQtMg_071ae264-cefb-405f-964e-8267e45f4fe5) to [shitty-prim-gpt](https://chatgpt.com/share/6a364ecc-5704-83e8-a9b1-9188f6f58ac3) to [idjit-deepkiss](https://chat.deepseek.com/share/2xwxmhn73fijf9nutf)
