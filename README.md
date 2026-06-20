@@ -1,4 +1,4 @@
-# begging - perfected (i hope) for lazy ppls.
+<h1>begging - perfected</h1><h4>(i hope)</h4> <h2>for lazy ppls.</h2>
 
 #### if you think you have a brain, scroll to the end.
 
@@ -27,9 +27,8 @@ how you ask? download firefox from play store. then -
 	now, you should have another hijibiji cookie (token 2). save it too.
 
 
-<p align="center"> <h1> now, for the final push: </h1>  </p>
-<br>
-### 1. open termux.
+<h1 align="center"> now, for the final push: </h1>
+### 1. open termux.  
 <br>
 give termux file permission with 
 
@@ -50,13 +49,15 @@ ______________________________
 ```bash
 cd ~/begging && bash start_4.sh
 ``` 
-
->idk if it will work or not tho. dont cry. and you need to get the cookies again if you are trying the next day.
+<br>
+![idk if it will work or not tho](https://img.shields.io/badge/WARNING-red)
+<h2>dont cry. and you need to get the cookies again if you are trying the next day.</h2>
 
 <br> 
 <br>
 Dedicated to all the vibecoders <img width="220" height="218" alt="lel change ISP" src="https://github.com/user-attachments/assets/1c3e09bf-68d9-4194-a72c-c82d6e8090b4" />
 out there (out of the asylum). 
+<br> 
 <br>
 <details> 
 	<summary> Click to see the recipe </summary>
