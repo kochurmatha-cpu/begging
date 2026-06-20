@@ -1,4 +1,8 @@
-<h1>begging - perfected</h1><h4>(i hope)</h4> <h2>for lazy ppls.</h2>
+<h1>
+  begging - perfected
+  <span><small>(i hope)</small></span>
+  <span><sub>for lazy ppls.</sub></span>
+</h1>
 
 #### if you think you have a brain, scroll to the end.
 
@@ -28,7 +32,9 @@ how you ask? download firefox from play store. then -
 
 
 <h1 align="center"> now, for the final push: </h1>
-### 1. open termux.  
+
+### 1. open termux. 
+
 <br>
 give termux file permission with 
 
@@ -50,7 +56,7 @@ ______________________________
 cd ~/begging && bash start_4.sh
 ``` 
 <br>
-![idk if it will work or not tho](https://img.shields.io/badge/WARNING-red)
+🔴 idk if it will work or not tho 
 <h2>dont cry. and you need to get the cookies again if you are trying the next day.</h2>
 
 <br> 
