@@ -27,7 +27,7 @@ how you ask? download firefox from play store. then -
 	now, you should have another hijibiji cookie (token 2). save it too.
 
 
-<p align="center"> ## now, for the final push: </p>
+<p align="center"> <h1> now, for the final push: </h1>  </p>
 <br>
 ### 1. open termux.
 give termux file permission with 
@@ -53,12 +53,13 @@ cd ~/begging && bash start_4.sh
 
 <br> 
 <br>
-Dedicated to all the vibecoders <img src= "https://tenor.com/ccDTlkaFTwx.gif"> out there (out of the asylum). 
+Dedicated to all the vibecoders <img src= "https://tenor.com/ccDTlkaFTwx.gif" width = "40" > out there (out of the asylum). 
 <br>
 <details> 
 	<summary> Click to see the recipe </summary>
-workflow 🤓 {lmao}: [OP_grok](https://grok.com/share/c2hhcmQtMg_071ae264-cefb-405f-964e-8267e45f4fe5) to [shitty-prim-gpt](https://chatgpt.com/share/6a364ecc-5704-83e8-a9b1-9188f6f58ac3) to [idjit-deepkiss](https://chat.deepseek.com/share/2xwxmhn73fijf9nutf)
+workflow 🤓 {lmao}: <a href= "https://grok.com/share/c2hhcmQtMg_071ae264-cefb-405f-964e-8267e45f4fe5"> OP_grok </a> to <a href= "https://chatgpt.com/share/6a364ecc-5704-83e8-a9b1-9188f6f58ac3"> shitty-prim-gpt </a> to <a href= "https://chat.deepseek.com/share/2xwxmhn73fijf9nutf"> idjit-deepkiss </a>
 </details>
 <br>
+
 all of this are grabbed [from](https://github.com/flowTech-x/unlock-tool)
 <br> read and work and profit. thanks to them. 
