@@ -5,7 +5,7 @@
 
 ## no nano edits. no accidental 4^n threads running. 
 
->can't read? [watch this](https://youtu.be/QuFioBUkh5U)
+>can't read? [watch this](https://youtu.be/QuFioBUkh5U) <br>
 <p align="center">
 <img width="1159" height="768" alt="weak internet lel" src="https://github.com/user-attachments/assets/fb5ba961-b5ff-46e7-8d59-9c979a535aff" />
 </p>
@@ -30,11 +30,13 @@ how you ask? download firefox from play store. then -
 <p align="center"> <h1> now, for the final push: </h1>  </p>
 <br>
 ### 1. open termux.
+<br>
 give termux file permission with 
+
 ```bash
 termux-setup-storage
 ```
-or just give termux file permission from termux app info > permissions > files
+or just give termux file permission from termux app info > permissions > files <br>
 ___________________________________________
 
 ### 2. paste this one line and keep looking at your phone for any red error messages. or any occasional enter pressing. 
@@ -53,7 +55,8 @@ cd ~/begging && bash start_4.sh
 
 <br> 
 <br>
-Dedicated to all the vibecoders <img src= "https://tenor.com/ccDTlkaFTwx.gif" width = "40" > out there (out of the asylum). 
+Dedicated to all the vibecoders <img width="220" height="218" alt="lel change ISP" src="https://github.com/user-attachments/assets/1c3e09bf-68d9-4194-a72c-c82d6e8090b4" />
+out there (out of the asylum). 
 <br>
 <details> 
 	<summary> Click to see the recipe </summary>
