@@ -8,9 +8,9 @@
 >can't read? [watch this](https://youtu.be/QuFioBUkh5U)
 
 
-Just one command and it will ask for your cookie 🍪 
+## Just one command and it will ask for your cookie 🍪 
 
-## just paste the two cookies that you will be grabbing.
+### just paste the two cookies that you will be grabbing.
 how you ask? download firefox from play store. then - 
 
 **step 1.** add cookie editor in firefox - https://addons.mozilla.org/firefox/addon/cookie-editor/
@@ -23,6 +23,7 @@ how you ask? download firefox from play store. then -
 
 **step 5.** download "multi app: dual space" from play store, add firefox. do step 1 to step 4 again. 
 	now, you should have another hijibiji cookie (token 2). save it too.
+
 
 ## now, for the final push:
 
@@ -45,7 +46,9 @@ ______________________________
 ```bash
 cd ~/begging && bash start_4.sh
 ``` 
+
 >idk if it will work or not tho. dont cry. and you need to get the cookies again if you are trying the next day.
+
 
 
 
