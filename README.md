@@ -1,4 +1,5 @@
-#begging - perfected (i hope) for lazy ppls. 
+#begging - perfected (i hope) for lazy ppls.
+
 ####if you think you have a brain, scroll to the end.
 
 ##no nano edits. no accidental 4^n threads running. 
