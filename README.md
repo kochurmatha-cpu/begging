@@ -1,4 +1,4 @@
-begging - perfected (i hope) for lazy ppls. if you think you have a brain, scroll to the end.
+#begging - perfected# (i hope) for lazy ppls. if you think you have a brain, scroll to the end.
 
 no nano edits. no 4^n threads running. 
 
