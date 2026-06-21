@@ -5,7 +5,7 @@ cd "$(dirname "$0")" || { echo "Cannot find begging folder"; exit 1; }
 python script.py --setup
 
 if [ $? -ne 0 ]; then
-    echo "Setup failed. Fix tokens and try again."
+    echo "Setup failed. Fix and try again."
     exit 1
 fi
 
