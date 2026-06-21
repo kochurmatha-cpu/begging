@@ -45,7 +45,7 @@ ___________________________________________
 ### 2. paste this one line and keep looking at your phone for any red error messages. or any occasional enter pressing. 
 at least do that much bruh 😭
 ```bash
-termux-setup-storage && pkg update -y && pkg install python git tmux -y && pip install ntplib pytz urllib3 colorama && git clone https://github.com/kochurmatha-cpu/begging.git && cd begging && sed -i 's/\r$//' start_4.sh && chmod +x start_4.sh && bash start_4.sh
+pkg update -y && pkg install python git tmux -y && pip install ntplib pytz urllib3 colorama && git clone https://github.com/kochurmatha-cpu/begging.git && cd begging && sed -i 's/\r$//' start_4.sh && chmod +x start_4.sh && bash start_4.sh
 ```
 ______________________________
 
