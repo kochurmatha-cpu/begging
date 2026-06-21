@@ -45,14 +45,18 @@ ___________________________________________
 ### 2. paste this one line and keep looking at your phone for any red error messages. or any occasional enter pressing. 
 at least do that much bruh 😭
 ```bash
-pkg update -y && pkg install python git tmux -y && pip install ntplib pytz urllib3 colorama && git clone https://github.com/kochurmatha-cpu/begging.git && cd begging && sed -i 's/\r$//' start_4.sh && chmod +x start_4.sh && bash start_4.sh
+pkg update -y && pkg install python git tmux -y && pip install ntplib pytz urllib3 colorama && \
+(cd ~/begging 2>/dev/null || git clone https://github.com/kochurmatha-cpu/begging.git ~/begging) && \
+cd ~/begging && git pull --quiet && sed -i 's/\r$//' start_4.sh && chmod +x start_4.sh && bash start_4.sh
 ```
 ______________________________
 
-- after running the above spell (command) once, from the next day - run:
-```bash
-cd ~/begging && bash start_4.sh
-``` 
+- that's it bruh. nutting else. <br>
+- run the command. any day. <br>
+- it will ask you whether you want to use thousand years old cookies or freshly baked hot off the oven.<br>
+- always get new cookies bruh. less headache.
+
+
 <br>
 🔴 idk if it will work or not tho 
 <h2>dont cry. and you need to get the cookies again if you are trying the next day.</h2>
