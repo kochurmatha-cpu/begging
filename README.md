@@ -47,7 +47,8 @@ at least do that much bruh 😭
 ```bash
 pkg update -y && pkg install python git tmux -y && pip install ntplib pytz urllib3 colorama && \
 (cd ~/begging 2>/dev/null || git clone https://github.com/kochurmatha-cpu/begging.git ~/begging) && \
-cd ~/begging && git pull --quiet && sed -i 's/\r$//' start_4.sh && chmod +x start_4.sh && bash start_4.sh
+cd ~/begging && git fetch --all && git reset --hard origin/main && \
+sed -i 's/\r$//' start_4.sh && chmod +x start_4.sh && bash start_4.sh
 ```
 ______________________________
 
