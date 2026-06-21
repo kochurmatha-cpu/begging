@@ -2,15 +2,14 @@
 
 cd "$(dirname "$0")" || { echo "Cannot find begging folder"; exit 1; }
 
-echo "=== Mi Begging Tool - Token Check ==="
 python script.py --setup
 
 if [ $? -ne 0 ]; then
-    echo "Token setup failed. Fix and try again."
+    echo "Setup failed. Fix tokens and try again."
     exit 1
 fi
 
-echo "Launching 4 begging slots now..."
+echo "Launching 4 Paths of Begging..."
 tmux new-session -d -s begging
 
 tmux split-window -h
