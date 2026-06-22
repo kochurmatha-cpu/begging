@@ -9,7 +9,7 @@
 
 ## no nano edits. no accidental 4^n threads running. 
 
->can't read? [watch this](https://youtu.be/QuFioBUkh5U) <br>
+>can't read? [watch this](https://youtu.be/YKnjdrepUWk) <br>
 <p align="center">
 <img width="1159" height="768" alt="weak internet lel" src="https://github.com/user-attachments/assets/fb5ba961-b5ff-46e7-8d59-9c979a535aff" />
 </p>
