@@ -60,8 +60,11 @@ ______________________________
 
 <br>
 🔴 idk if it will work or not tho 
-<h2>dont cry. and you need to get the cookies again if you are trying the next day.</h2>
+<h2>dont cry. and (i think) you need to get the cookies again if you are trying the next day.</h2>
 
+> read (lel) Mi account criteria for unlocking bootloader : [here](https://www.mi.com/global/support/faq/details/KA-07238/)
+<br>
+- download Mi unlock tool from [here](https://en.miui.com/unlock/download_en.html)
 <br> 
 <br>
 Dedicated to all the vibecoders <img width="220" height="218" alt="lel change ISP" src="https://github.com/user-attachments/assets/1c3e09bf-68d9-4194-a72c-c82d6e8090b4" />
